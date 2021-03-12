@@ -1,0 +1,52 @@
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.box {
+  border: 1px solid black;
+  width: 350px;
+  height: 285px;
+  padding: 0px 30px 30px 30px;
+  text-align: left;
+  border-radius: 5px;
+}
+
+.box p {
+  font-family: "IBM Plex Sans", sans-serif;
+  margin-bottom: 25px;
+}
+
+.box h1 {
+  font-family: "Poppins", sans-serif;
+}
+
+.donors {
+  font-weight: bolder;
+}
+
+.celebrate {
+  background-color: green;
+  width: 100%;
+  margin-bottom: 15px;
+  color:white;
+  padding:2px 0px 4px 2px;
+  border-radius: 5px;
+  text-align:left;
+}
+
+.bg{
+  background-color:darkslategrey;
+  width: 100%;
+  margin-bottom: 15px;
+  color:white;
+  padding:2px 0px 4px 2px;
+  border-radius: 5px;
+  text-align:left;
+}
+
+ .pb{
+   width:100%;
+ }
